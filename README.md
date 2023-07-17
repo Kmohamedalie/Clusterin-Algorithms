@@ -14,3 +14,12 @@ Theoretical lessons about the algorithms:<br/>
 [K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) <br/>
 [Hierarchical Clustering](https://www.youtube.com/watch?v=ijUMKMC4f9I)<br/>
 [DBSCAN](https://www.youtube.com/watch?v=RDZUdRSDOok)
+
+
+### Plot of Dendrogram and Elbow from the notebooks:
+
+![image](https://github.com/Kmohamedalie/Clustering-Algorithms/assets/63104472/67a7d5ca-365b-429c-be79-27daa09761eb)
+
+![image](https://github.com/Kmohamedalie/Clustering-Algorithms/assets/63104472/2e640f0e-1e88-4838-80ab-8fe1b6692a10)
+
+
