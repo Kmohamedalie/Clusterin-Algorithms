@@ -6,7 +6,7 @@ Unsupervised Machine Learning with Clustering algorithms: in the repository I ex
 
 ### Mall_Customers Dataset
 
-Credit and more on this:   [Youtube tutorial](https://www.youtube.com/watch?v=lQt92mh0N8I)
+Credit and for more:   [Youtube tutorial](https://www.youtube.com/watch?v=lQt92mh0N8I)
 
 Link to the : [Kaggle dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers?resource=download)
 
